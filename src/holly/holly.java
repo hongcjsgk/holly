@@ -1,5 +1,5 @@
 package holly;
 
 public class holly {
-asdasd
+정수형 수정했어요 
 }
